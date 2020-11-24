@@ -2,4 +2,6 @@
 
 ## leetcode原题
 
-- [两数之和](./001/README.md)
+- [1. Two Sum](https://leetcode.com/problems/two-sum/)
+
+- [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
